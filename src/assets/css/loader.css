@@ -1,0 +1,8 @@
+.insti{
+    height: 100vh;
+    background-color: black;
+}
+.block{
+    transition: all ease-in-out 2s;
+    display: none;
+}
